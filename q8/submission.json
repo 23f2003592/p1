@@ -1,0 +1,6 @@
+{
+  "prompt": "Photorealistic landscape photography, golden hour light. A terraced hillside with four or five distinct agricultural terraces, each level clearly and visibly sloping downward from left to right — water channels on each terrace carry water flowing unmistakably leftward, downhill on every individual level. Yet the overall hillside, as a whole structure, slopes unmistakably in the opposite direction — from right to left — so the entire hill rises from left to right when seen as a complete form. Both facts are simultaneously and visibly true in the same image: every local terrace slopes one way, the global hill slopes the other. Stone retaining walls separate each terrace. The scene is physically real, geologically plausible, rendered in warm late-afternoon light with long shadows emphasizing the slope directions. No text, no labels, no numbers, no arrows, no diagrams, no chart elements, nothing non-physical anywhere in the image.",
+  "model": "DALL-E 3",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Every individual terrace slopes left-to-right while the overall hillside slopes right-to-left — local and global trends simultaneously point in opposite directions, both visibly true at once."
+}
