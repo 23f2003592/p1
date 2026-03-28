@@ -1,0 +1,7 @@
+{
+  "prompt": "Editorial illustration, wide cinematic format, muted desaturated palette. Two identical human figures walking left to right across a barren flat grey landscape. The figure on the left walks completely upright and unburdened, casting a long clean shadow. The figure on the right is bent nearly double, crushed forward under an enormous towering pile of plastic waste — crushed water bottles, torn plastic bags, foam packaging, tangled plastic film — stacked so high it fills the upper 70% of the frame and tilts precariously. Both figures are the same size, same posture, same clothes — the only difference is what one carries. The plastic tower is rendered in cold faded colours: washed-out whites, pale yellows, faded blue. Mood: quiet injustice, physical weight as moral weight. Overcast flat light. Cinematic grain. Photorealistic, editorial photography style. No text, no labels, no legends, no numbers, no words visible anywhere in the image, absolutely no letters or symbols.",
+  "model": "DALL-E 3",
+  "dataset_name": "Mismanaged Plastic Waste Per Capita",
+  "dataset_url": "https://ourworldindata.org/plastic-pollution",
+  "insight": "A person in the Philippines mismanages 530 times more plastic waste per year than a person in Denmark — yet both nations border the same interconnected ocean."
+}
